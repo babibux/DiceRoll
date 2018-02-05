@@ -4,4 +4,4 @@ Simple dice roll generator with GUI, made using Eclipse, after one month learnin
 
 Allows up to 6 dice rolls at the same time, with up to 100 sides each.
 
-![Alt text]("DiceRoll window.png"?raw=true "DiceRoll interface")
+![Screenshot](DiceRoll window.png)
