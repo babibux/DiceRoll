@@ -1,4 +1,4 @@
-### DiceRoll ###
+# DiceRoll
 
 Simple dice roll generator with GUI, made using Eclipse, after one month learning Java by my own.
 
